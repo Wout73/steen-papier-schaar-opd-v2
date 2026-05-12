@@ -1,0 +1,15 @@
+h1 { font-size: 50px;}
+
+
+
+p { font-size: 30px;}
+
+
+
+button  { font-size: 15px;
+    background-color: rgb(46, 44, 47);
+    color : white;
+    transition: all 0.3s ease;
+}
+
+button:hover { background-color: rgb(242, 241, 243); color: black; }
